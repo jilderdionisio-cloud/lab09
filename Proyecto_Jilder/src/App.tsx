@@ -1,4 +1,4 @@
-import { DeveloperProfile } from '../Proyecto_Jilder/src/components/DeveloperProfile'
+import { DeveloperProfile } from './components/DeveloperProfile'
 import './App.css'
 
 function App() {
